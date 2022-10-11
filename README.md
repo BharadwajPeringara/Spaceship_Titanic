@@ -37,5 +37,4 @@ x) Transported - Whether the passenger was transported to another dimension. Thi
 
 
 test.csv - Personal records for the remaining one-third (~4500) of the passengers, to be used as test data. Your task is to predict the value of Transported
-
 for the passengers in this set.

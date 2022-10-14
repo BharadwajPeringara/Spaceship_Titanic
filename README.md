@@ -4,7 +4,7 @@ The Spacceship Titanic was an interstellar passenger liner. There are almost 100
 from our solar system to three newly habitable exoplanets orbiting nearby stars. While rounding Alpha Centauri en route to its first destination—the 
 torrid 55 Cancri E—the unwary Spaceship Titanic collided with a spacetime anomaly hidden within a dust cloud. Sadly, it met a similar fate as its namesake from 1000 years before. Though the ship stayed intact, almost half of the passengers were transported to an alternate dimension.
 
-Hence, this project is to predict which passangers were transported to an alternate dimension. 
+Hence, this project is to predict which passengers were transported to an alternate dimension. 
 
 
 
